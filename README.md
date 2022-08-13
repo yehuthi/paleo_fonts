@@ -1,0 +1,19 @@
+# Paleo-Hebrew Fonts
+
+<table>
+  <thead>
+    <tr>
+      <th>Font</th><th>Sample</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Segoe UI Historic</td>
+      <td><img height="40" src="./segoe_ui_historic/sample.svg" alt="Segoe UI Historic sample" title="Segoe UI Historic"></td>
+    </tr>
+    <tr>
+      <td>Noto Sans Phoenician</td>
+      <td><img src="./noto_sans_phoenician/sample.svg" alt="Noto Sans Phoenician sample" title="Noto Sans Phoenician"></td>
+    </tr>
+  </tbody>
+</table>
