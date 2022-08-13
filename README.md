@@ -15,5 +15,9 @@
       <td>Noto Sans Phoenician</td>
       <td><img src="./noto_sans_phoenician/sample.svg" alt="Noto Sans Phoenician sample" title="Noto Sans Phoenician"></td>
     </tr>
+    <tr>
+      <td>GNU FreeFont Sans</td>
+      <td><img src="./free_sans/sample.svg" alt="GNU FreeFont Sans sample" title="GNU FreeFont Sans"></td>
+    </tr>
   </tbody>
 </table>
