@@ -19,5 +19,9 @@
       <td>GNU FreeFont Sans</td>
       <td><img src="./free_sans/sample.svg" alt="GNU FreeFont Sans sample" title="GNU FreeFont Sans"></td>
     </tr>
+    <tr>
+      <td>MPH 2B Damase</td>
+      <td><img src="./mph_2b_damase/sample.svg" alt="MPH 2B Damase sample" title="MPH 2B Damase"></td>
+    </tr>
   </tbody>
 </table>
