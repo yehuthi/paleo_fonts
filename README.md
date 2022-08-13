@@ -23,5 +23,9 @@
       <td>MPH 2B Damase</td>
       <td><img src="./mph_2b_damase/sample.svg" alt="MPH 2B Damase sample" title="MPH 2B Damase"></td>
     </tr>
+    <tr>
+      <td>Universalia</td>
+      <td><img src="./universalia/sample.svg" alt="Universalia sample" title="Universalia"></td>
+    </tr>
   </tbody>
 </table>
